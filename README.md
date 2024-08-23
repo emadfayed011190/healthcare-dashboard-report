@@ -1,6 +1,7 @@
 # Healthcare Dashboard on Power BI
 
 ### Dashboard Link :C:\Users\dell\Desktop\pobi projects\blinkit dashboard
+### snap page1 : https://github.com/emadfayed011190/healthcare-dashboard-report/blob/main/healthcare%20page1.PNG
 
 ## The key problems hospital faces include:
 
