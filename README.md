@@ -2,7 +2,7 @@
 
 ### Dashboard Link :[C:\Users\dell\Desktop\pobi projects\blinkit dashboard](https://github.com/emadfayed011190/healthcare-dashboard-report/blob/main/healthcare%20dashboard.pbix)
 ### snap page1 : https://github.com/emadfayed011190/healthcare-dashboard-report/blob/main/healthcare%20page1.PNG
-### snap page2 : 
+### snap page2 : https://github.com/emadfayed011190/healthcare-dashboard-report/blob/main/healthcare%20page2.PNG
 
 ## The key problems hospital faces include:
 
